@@ -47,3 +47,4 @@ gedit test_planners.launch
     <img src="./picture/InformedRRTStar_2.png" alt="drawing" width="600"/>
     <img src="./picture/InformedRRTStar_4.png" alt="drawing" width="600"/>
 </p>
+可见路径节点采样范围被限制在一个三维椭圆体内
