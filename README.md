@@ -76,3 +76,5 @@ gedit test_planners.launch
 <p align='center'>
     <img src="./picture/equation1.png" alt="drawing" width="750"/>
 </p>
+ξ_i 服从单位均匀分布。
+
