@@ -45,5 +45,5 @@ gedit test_planners.launch
 
 <p align='center'>
     <img src="./picture/InformedRRTStar_2.png" alt="drawing" width="600"/>
-    <img src="./picture/InformedRRTStar_3.png" alt="drawing" width="600"/>
+    <img src="./picture/InformedRRTStar_4.png" alt="drawing" width="600"/>
 </p>
