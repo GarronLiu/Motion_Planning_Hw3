@@ -31,4 +31,13 @@ RRT*的搜索结果
     <img src="./picture/RRTStar_1.png" alt="drawing" width="456"/>
     <img src="./picture/RRTStar_3.png" alt="drawing" width="456"/>
 </p>
-    
+
+# Informed RRT* Result
+
+```
+cd ~/MPLesson_ws/src/path_finder/launch
+gedit test_planners.launch 
+```
+<p align='center'>
+    <img src="./picture/test_planner.png" alt="drawing" width="600"/>
+</p>
