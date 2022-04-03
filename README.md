@@ -28,8 +28,8 @@ roslaunch path_finder rviz.launch
 
 RRT*的搜索结果
 <p align='center'>
-    <img src="./picture/RRTStar_1.png" alt="drawing" width="456"/>
-    <img src="./picture/RRTStar_3.png" alt="drawing" width="456"/>
+    <img src="./picture/RRTStar_1.png" alt="drawing" width="750"/>
+    <img src="./picture/RRTStar_3.png" alt="drawing" width="750"/>
 </p>
 
 # Informed RRT* Result
@@ -39,12 +39,12 @@ cd ~/MPLesson_ws/src/path_finder/launch
 gedit test_planners.launch 
 ```
 <p align='center'>
-    <img src="./picture/test_planner.png" alt="drawing" width="600"/>
+    <img src="./picture/test_planner.png" alt="drawing" width="750"/>
 </p>
 修改informed_en为true，表示以用informed RRT*的采样功能。结果如下：
 
 <p align='center'>
-    <img src="./picture/InformedRRTStar_2.png" alt="drawing" width="600"/>
-    <img src="./picture/InformedRRTStar_4.png" alt="drawing" width="600"/>
+    <img src="./picture/InformedRRTStar_2.png" alt="drawing" width="750"/>
+    <img src="./picture/InformedRRTStar_4.png" alt="drawing" width="750"/>
 </p>
 可见路径节点采样范围被限制在一个三维椭圆体内
