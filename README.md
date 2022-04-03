@@ -72,4 +72,5 @@ gedit test_planners.launch
 </p>
 
 单位球体内均匀采样公式：
-$$r=R(\kesi)^\frac{1}{3}$$
+
+$$r=R$$
