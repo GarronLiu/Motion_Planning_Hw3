@@ -24,7 +24,9 @@ roslaunch path_finder rviz.launch
 ```
 点击3D Nav Goal在地图中选取起点和目标点即可开始规划。
 
-# RRT* Result
+# Result
+
+## RRT* Result
 
 RRT*的搜索结果
 <p align='center'>
@@ -32,7 +34,7 @@ RRT*的搜索结果
     <img src="./picture/RRTStar_3.png" alt="drawing" width="750"/>
 </p>
 
-# Informed RRT* Result
+## Informed RRT* Result
 
 ```
 cd ~/MPLesson_ws/src/path_finder/launch
@@ -48,3 +50,25 @@ gedit test_planners.launch
     <img src="./picture/InformedRRTStar_4.png" alt="drawing" width="750"/>
 </p>
 可见路径节点采样范围被限制在一个三维椭圆体内
+
+# Main code change
+
+## 重新选择父节点代码
+
+<p align='center'>
+    <img src="./picture/code1.png" alt="drawing" width="750"/>
+</p>
+
+## 重布线随机树过程
+
+<p align='center'>
+    <img src="./picture/code3.png" alt="drawing" width="750"/>
+</p>
+
+## 三维椭圆体内均匀采样
+
+<p align='center'>
+    <img src="./picture/code4.png" alt="drawing" width="750"/>
+</p>
+
+
