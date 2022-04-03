@@ -28,7 +28,7 @@ roslaunch path_finder rviz.launch
 
 RRT*的搜索结果
 <p align='center'>
-    <img src="./picture/RRTStar_1.png" alt="drawing" width="286.5"/>
-    <img src="./picture/RRTStar_3.png" alt="drawing" width="328"/>
+    <img src="./picture/RRTStar_1.png" alt="drawing" width="456"/>
+    <img src="./picture/RRTStar_3.png" alt="drawing" width="456"/>
 </p>
     
