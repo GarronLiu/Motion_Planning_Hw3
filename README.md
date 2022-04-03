@@ -8,10 +8,27 @@
 使用以下指令下载和编译代码：
     
 ```
-cd ~/catkin_ws/src
-git clone https://github.com/TixiaoShan/LVI-SAM.git
+mkdir -p ~/MPLesson_ws/src
+cd ~/MPLesson_ws/src
+git clone https://github.com/GarronLiu/Motion_Planning_Hw3.git
 cd ..
 catkin_make
 ```
 
+# Run the Package
+
+```
+cd ~/MPLesson_ws 
+source devel/setup.bash
+roslaunch path_finder rviz.launch 
+```
+点击3D Nav Goal在地图中选取起点和目标点即可开始规划。
+
+# RRT* Result
+
+RRT*的搜索结果
+<p align='center'>
+    <img src="./picture/RRTStar_1.png" alt="drawing" width="286.5"/>
+    <img src="./picture/RRTStar_3.png" alt="drawing" width="328"/>
+</p>
     
