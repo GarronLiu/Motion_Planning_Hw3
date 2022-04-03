@@ -73,4 +73,6 @@ gedit test_planners.launch
 
 单位球体内均匀采样公式：
 
-$$r=R$$
+<p align='center'>
+    <img src="./picture/equation1.png" alt="drawing" width="750"/>
+</p>
