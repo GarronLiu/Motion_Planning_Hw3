@@ -56,19 +56,19 @@ gedit test_planners.launch
 ## 重新选择父节点代码
 
 <p align='center'>
-    <img src="./picture/code1.png" alt="drawing" width="750"/>
+    <img src="./picture/code1.png" alt="drawing" width="600"/>
 </p>
 
 ## 重布线随机树过程
 
 <p align='center'>
-    <img src="./picture/code3.png" alt="drawing" width="750"/>
+    <img src="./picture/code3.png" alt="drawing" width="600"/>
 </p>
 
 ## 三维椭圆体内均匀采样
 
 <p align='center'>
-    <img src="./picture/code4.png" alt="drawing" width="750"/>
+    <img src="./picture/code4.png" alt="drawing" width="600"/>
 </p>
 
 
