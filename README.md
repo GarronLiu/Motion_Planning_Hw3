@@ -41,3 +41,9 @@ gedit test_planners.launch
 <p align='center'>
     <img src="./picture/test_planner.png" alt="drawing" width="600"/>
 </p>
+修改informed_en为true，表示以用informed RRT*的采样功能。结果如下：
+
+<p align='center'>
+    <img src="./picture/InformedRRTStar_2.png" alt="drawing" width="600"/>
+    <img src="./picture/InformedRRTStar_3.png" alt="drawing" width="600"/>
+</p>
